@@ -1,0 +1,10 @@
+metin:library:language=Java
+metin:native:api=java_run.sh
+metin:globals:sapi=http://metin-repo.local:2082/PUB/java.sapi
+metin:library:require=com.java.processing.sketch
+metin:library:utils=com.metin.native.java,com.metin.native.capi,com.metin.native.papi
+metin:human:copyright=2014
+metin:human:owner=Michael
+metin:version=0.0.3b
+metin:build=351
+metin:server:update=http://metin-updates.local:2212/UPDATES/latest.branch
