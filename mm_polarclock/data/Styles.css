@@ -1,0 +1,33 @@
+body {
+	background-color: rgb(34, 34, 34);
+}
+
+track[id="0"] {
+	background-color: rgb(34, 34, 34);
+	color: rgb(78, 223, 178);
+}
+
+track[id="1"] {
+	background-color: rgb(34, 34, 34);
+	color: rgb(229, 204, 75);
+}
+
+track[id="2"] {
+	background-color: rgb(34, 34, 34);
+	color: rgb(222, 71, 162);
+}
+
+track[id="3"] {
+	background-color: rgb(34, 34, 34);
+	color: rgb(78, 219, 105);
+}
+
+track[id="4"] {
+	background-color: rgb(34, 34, 34);
+	color: rgb(50, 147, 224);
+}
+
+track[id="5"] {
+	background-color: rgb(34, 34, 34);
+	color: rgb(135, 219, 72);
+}
