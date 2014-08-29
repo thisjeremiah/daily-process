@@ -14,6 +14,13 @@ void setup()
  frameRate(5);
 
  size(worldWidth * 5, worldHeight * 5);
+ 
+ generateWorld();
+
+}
+
+void generateWorld()
+{
 
  for( int i = 0; i < worldWidth; i++ )
  {
